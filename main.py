@@ -1,0 +1,1 @@
+print("Entorno listo. Python 3 y VS Code funcionando correctamente.")
